@@ -1,3 +1,15 @@
+commit 4b45c938b35bcff11d023368a1b845f9636bc744
+Author: Ovi Ahmed <ovi144741@gmail.com>
+Date:   Thu Feb 5 23:14:29 2026 -0800
+
+    Fill in name and hobby
+
+commit ae22a9348804439450a12aafa369e8d33b0f0c8a
+Author: Ovi Ahmed <ovi144741@gmail.com>
+Date:   Thu Feb 5 23:07:59 2026 -0800
+
+    Add git log and repo location
+
 commit 8a114a6db04ac415758f8d31dd49d08bc8272b56
 Author: Ovi Ahmed <ovi144741@gmail.com>
 Date:   Thu Feb 5 23:02:02 2026 -0800
